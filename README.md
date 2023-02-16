@@ -1,13 +1,5 @@
 
 
-
-
-
-
-
-
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
 <br />
@@ -17,7 +9,7 @@
 <br /><br />
   <h3 align="center">React Native Expo with TailwindCSS</h3>
   <p align="center">
-	A react native project that use Expo CLI in Typescript with TailwindCSS
+	A react native project that use Expo CLI in Typescript and Javascript with TailwindCSS
   </p>
 </div>
 
@@ -62,6 +54,7 @@ This section list of major things that we used to this project.
 * [![Tailwind][Tailwind]][Tailwind-url]
 * [![Expo][Expo]][Expo-url]
 * [![Typescript][Typescript]][Typescript-url]
+* [![Javascript][Javascript]][Javascript-url]
 
 
 See the [open issues](https://github.com/mashwishi/kohee/issues) for a full list of proposed features (and known issues).
@@ -108,5 +101,8 @@ Don't forget to give the project a star! Thanks again!
 
 [Typescript]: https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=FFFFFF
 [Typescript-url]: https://www.typescriptlang.org/
+
+[Javascript]: https://img.shields.io/badge/Javascript-EAD51C?style=for-the-badge&logo=Javascript&logoColor=01001F
+[Javascript-url]: https://youtu.be/dQw4w9WgXcQ
 
 
