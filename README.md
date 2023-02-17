@@ -30,17 +30,21 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Clone the repo
+1. Install Expo CLI Global 
+   ```sh
+   npm install -g expo-cli
+   ```
+2. Clone the repo
    ```sh
    git clone https://github.com/mashwishi/React-Native-Expo-with-TailwindCSS.git
    ```
-2. Install NPM packages 
+3. Install NPM packages 
    ```sh
    npm install
    or
    yarn install
    ```
-3. Run on your terminal to test 
+4. Run on your terminal to test 
    ```sh
    npx expo start
    ```
