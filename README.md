@@ -40,8 +40,6 @@ To get a local copy up and running follow these simple example steps.
    ```
 3. Install NPM packages 
    ```sh
-   npm install
-   or
    yarn install
    ```
 4. Run on your terminal to test 
@@ -59,6 +57,7 @@ This section list of major things that we used to this project.
 * [![Expo][Expo]][Expo-url]
 * [![Typescript][Typescript]][Typescript-url]
 * [![Javascript][Javascript]][Javascript-url]
+* [![Yarn][Yarn]][Yarn-url]
 
 
 See the [open issues](https://github.com/mashwishi/kohee/issues) for a full list of proposed features (and known issues).
@@ -108,5 +107,9 @@ Don't forget to give the project a star! Thanks again!
 
 [Javascript]: https://img.shields.io/badge/Javascript-EAD51C?style=for-the-badge&logo=Javascript&logoColor=01001F
 [Javascript-url]: https://youtu.be/dQw4w9WgXcQ
+
+[Yarn]: https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=FFFFFF
+[Yarn-url]: https://classic.yarnpkg.com/lang/en/docs/install/
+
 
 
