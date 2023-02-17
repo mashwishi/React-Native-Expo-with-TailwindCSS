@@ -10,6 +10,10 @@
   <h3 align="center">React Native Expo with TailwindCSS</h3>
   <p align="center">
 	A react native project that use Expo CLI in Typescript and Javascript with TailwindCSS
+	   <br/><br/>
+   Project Visitor Count<br>
+   <img src="https://profile-counter.glitch.me/React-Native-Expo-with-TailwindCSS/count.svg" />
+   <br/><br/>
   </p>
 </div>
 
