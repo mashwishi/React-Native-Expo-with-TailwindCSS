@@ -1,14 +1,14 @@
-/// <reference types="nativewind/types" />
-import { StatusBar } from 'expo-status-bar';
-import { Text, View } from 'react-native';
+import React from 'react';
+import { SafeAreaView, Text } from 'react-native';
+import { styled } from 'nativewind';
+
+const StyledSafeArea = styled(SafeAreaView);
+const StyledText = styled(Text);
 
 export default function App() {
-  
-  return (
-    <View className="flex-1 items-center justify-center bg-white">
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
-
+    return (
+        <StyledSafeArea className='flex bg-white items-center justify-center'>
+            <StyledText className='text-black text-center text-lg p-4'>React Native Expo in TypeScript with Tailwind CSS</StyledText>
+        </StyledSafeArea>
+    );
 }

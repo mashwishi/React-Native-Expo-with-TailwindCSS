@@ -1,5 +1,3 @@
-
-
 <br />
 <div align="center">
 <br />
@@ -17,16 +15,14 @@
   </p>
 </div>
 
-
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 This is the instructions on setting up your project locally.
@@ -34,7 +30,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Install Expo CLI Global 
+1. Install Expo CLI Global
    ```sh
    npm install -g expo-cli
    ```
@@ -42,32 +38,45 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/mashwishi/React-Native-Expo-with-TailwindCSS.git
    ```
-3. Install NPM packages 
+3. Install NPM packages
    ```sh
    yarn install
    ```
-4. Run on your terminal to test 
+4. Run on your Development Environment
+   - Windows with iPhone App (Expo Go) run
    ```sh
-   npx expo start
+   npx expo start --tunnel
    ```
+   - Windows/Mac with Android run
+   ```sh
+   npx expo start --android
+   ```
+   - Windows/Mac with Browser run
+   ```sh
+   npx expo start --web
+   ```
+   - Mac with iPhone run
+   ```sh
+   npx expo start --ios
+   ```
+   Tailwind (Nativewind Docs): https://www.nativewind.dev
 
 ### Built With
 
-This section list of major things that we used to this project. 
+This section list of major things that we used to this project.
 
-* [![React Native][ReactNative]][ReactNative-url]
-* [![NativeWind][NativeWind]][NativeWind-url]
-* [![Tailwind][Tailwind]][Tailwind-url]
-* [![Expo][Expo]][Expo-url]
-* [![Typescript][Typescript]][Typescript-url]
-* [![Javascript][Javascript]][Javascript-url]
-* [![Yarn][Yarn]][Yarn-url]
-
+- [![React Native][ReactNative]][ReactNative-url]
+- [![NativeWind][NativeWind]][NativeWind-url]
+- [![Tailwind][Tailwind]][Tailwind-url]
+- [![Expo][Expo]][Expo-url]
+- [![Typescript][Typescript]][Typescript-url]
+- [![Javascript][Javascript]][Javascript-url]
+- [![Yarn][Yarn]][Yarn-url]
 
 See the [open issues](https://github.com/mashwishi/kohee/issues) for a full list of proposed features (and known issues).
 
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -83,6 +92,7 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/mashwishi/React-Native-Expo-with-TailwindCSS.svg?style=for-the-badge
 [contributors-url]: https://github.com/mashwishi/React-Native-Expo-with-TailwindCSS/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/mashwishi/React-Native-Expo-with-TailwindCSS.svg?style=for-the-badge
@@ -93,27 +103,17 @@ Don't forget to give the project a star! Thanks again!
 [issues-url]: https://github.com/mashwishi/React-Native-Expo-with-TailwindCSS/issues
 [license-shield]: https://img.shields.io/github/license/mashwishi/React-Native-Expo-with-TailwindCSS.svg?style=for-the-badge
 [license-url]: https://github.com/mashwishi/React-Native-Expo-with-TailwindCSS/blob/main/LICENSE
-
 [ReactNative]: https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [ReactNative-url]: https://reactnative.dev/
-
 [NativeWind]: https://img.shields.io/badge/NativeWind-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [NativeWind-url]: https://www.nativewind.dev/quick-starts/expo
-
 [Tailwind]: https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=TailwindCSS&logoColor=white
 [Tailwind-url]: https://tailwindcss.com/
-
 [Expo]: https://img.shields.io/badge/Expo-FFFFFF?style=for-the-badge&logo=Expo&logoColor=01001F
 [Expo-url]: https://expo.io/
-
 [Typescript]: https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=FFFFFF
 [Typescript-url]: https://www.typescriptlang.org/
-
 [Javascript]: https://img.shields.io/badge/Javascript-EAD51C?style=for-the-badge&logo=Javascript&logoColor=01001F
 [Javascript-url]: https://youtu.be/dQw4w9WgXcQ
-
 [Yarn]: https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=FFFFFF
 [Yarn-url]: https://classic.yarnpkg.com/lang/en/docs/install/
-
-
-
