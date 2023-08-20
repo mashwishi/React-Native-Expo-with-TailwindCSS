@@ -1,3 +1,4 @@
+
 import React from 'react';
 import {
   View,
@@ -5,7 +6,7 @@ import {
   SafeAreaView
 } from 'react-native';
 
-const AppNavigator = () => {
+const Home = () => {
 
   return (
         <View className="flex-1 items-center justify-center bg-white">
@@ -14,4 +15,4 @@ const AppNavigator = () => {
   );
 };
 
-export default AppNavigator;
+export default Home;

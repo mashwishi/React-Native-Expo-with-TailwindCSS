@@ -5,10 +5,10 @@
  * @format
  */
 import React from 'react';
-import AppNavigator from './src/navigation';
+import Home from './src/screens';
 
 function App(): JSX.Element {
-  return <AppNavigator/>;
+  return <Home/>;
 }
 
 export default App;
